@@ -1,2 +1,9 @@
 # exploring-ebay-car-sales-data
- Analyze car listings eBay Kleinanzeigen using NumPy and Pandas
+Analyze car listings eBay Kleinanzeigen using NumPy and Pandas
+
+Link to Jupyter Notebook: https://github.com/AllieRosie/exploring-ebay-car-sales-data/blob/main/Basics.ipynb
+
+My analysis shows that:
+- Top 3 popular brands were Volkswagen, BMW and Opel.
+- The most expensive brands among top 10 popular brands were Audi, BMW and Mercedes_Benz. 
+- The cheapest brands among top 10 popular brands were Opel, Renaul, and Fiat.
